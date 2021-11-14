@@ -1,0 +1,94 @@
+1615556727037	geckodriver	INFO	Listening on 127.0.0.1:50438
+1615556730049	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofilehh2nxX"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615556731464	Marionette	INFO	Listening on port 50446
+1615556731569	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 13724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615557929568	Marionette	INFO	Stopped listening on port 50446
+zprofileiiWaqu"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557025181	Marionette	INFO	Listening on port 50635
+1615557025264	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 14760, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615557928341	Marionette	INFO	Stopped listening on port 50635
+le.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557233549	Marionette	INFO	Listening on port 50755
+1615557233613	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: NotFoundError: WindowGlobalParent.getActor: No such JSWindowActor 'MarionetteCommands'
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:69
+unregisterCommandsActor@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:395:15
+GeckoDriver.prototype.deleteSession@chrome://marionette/content/driver.js:3009:5
+onClosed@chrome://marionette/content/server.js:196:17
+close@chrome://marionette/content/transport.js:225:18
+onInputStreamReady@chrome://marionette/content/transport.js:379:14
+
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteCommands'
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
+Exiting due to channel error.
+15557863731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofile7sEji6"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615557865168	Marionette	INFO	Listening on port 51152
+1615557865255	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12932, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615557924327	Marionette	INFO	Stopped listening on port 51152
+ngs file exists, new profile?" (new Error("", "(unknown module)"))
+1615557888230	Marionette	INFO	Listening on port 51212
+1615557888303	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0149,name=PContent::Msg_AsyncMessage) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 17292, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615557914970	Marionette	INFO	Stopped listening on port 51212
+1615558253930	geckodriver	INFO	Listening on 127.0.0.1:51383
+1615558256932	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofileFFjdoL"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615558258382	Marionette	INFO	Listening on port 51391
+1615558258452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615558264618	Marionette	INFO	Stopped listening on port 51391
+1615558277615	geckodriver	INFO	Listening on 127.0.0.1:51441
+1615558280613	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofile2Qo9Da"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615558282025	Marionette	INFO	Listening on port 51449
+1615558282136	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615558288362	Marionette	INFO	Stopped listening on port 51449
+1615558319825	geckodriver	INFO	Listening on 127.0.0.1:51501
+1615558322838	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofileE8uErt"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615558324306	Marionette	INFO	Listening on port 51509
+1615558324358	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615558330784	Marionette	INFO	Stopped listening on port 51509
+1615558943754	geckodriver	INFO	Listening on 127.0.0.1:52094
+1615558946757	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofilerE4b4A"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615558948217	Marionette	INFO	Listening on port 52102
+1615558948278	Marionette	WARN	TLS certificate errors will be ignored for this session
+Marionette threw an error: TypeError: browsingContextFn().currentWindowGlobal is null
+getMarionetteCommandsActorProxy/get/<@chrome://marionette/content/actors/MarionetteCommandsParent.jsm:332:29
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 12604, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1615558960847	Marionette	INFO	Stopped listening on port 52102
+1615559034391	geckodriver	INFO	Listening on 127.0.0.1:52155
+1615559037395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofile216cWH"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615559038814	Marionette	INFO	Listening on port 52163
+1615559038916	Marionette	WARN	TLS certificate errors will be ignored for this session
+1615559045286	Marionette	INFO	Stopped listening on port 52163
