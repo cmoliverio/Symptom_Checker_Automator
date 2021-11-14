@@ -1,0 +1,7 @@
+1615556898384	geckodriver	INFO	Listening on 127.0.0.1:50528
+1615556901352	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--headless" "--disable-gpu" "-foreground" "-no-remote" "-profile" "C:\\Users\\zelda\\AppData\\Local\\Temp\\rust_mozprofiletll1kN"
+*** You are running in headless mode.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1615556902826	Marionette	INFO	Listening on port 50536
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+Exiting due to channel error.
